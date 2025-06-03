@@ -274,7 +274,8 @@ their fair chance!`**
 This project is protected by a **Custom "All Rights Reserved" License**.
 
 > 🚫 Unauthorized use, modification, distribution, or publication is strictly prohibited.  
-> 📧 For licensing inquiries, contact: **[samhd8991@gmail.com](mailto:samhd8991@gmail.com)**
+> 📧 For licensing inquiries, contact: **[samhd8991@gmail.com](mailto:samhd8991@gmail.com)** **[anirbandas2647226@gmail.com](mailto:anirbandas2647226@gmail.com)**
+
 
 ---
 
