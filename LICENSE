@@ -1,23 +1,42 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+PROPRIETARY AND CONFIDENTIAL LICENSE
 
-   Copyright © 2025 Himadri Das and the Project Contributors
+Copyright © 2025 Himadri Das and Project Contributors
 
 All rights reserved.
 
-This software is proprietary and confidential. No part of this project may be used, copied, modified, distributed, or published in any form without prior written permission from the authors.
+GRANT OF LICENSE
+This software and all associated documentation is proprietary and confidential. 
+No license, express or implied, is granted to use, copy, modify, distribute, 
+or publish this software in any form without prior written permission from the 
+copyright holders.
 
-For permission requests, please contact:
+RESTRICTIONS
+You may not:
+- Copy, clone, or fork this repository
+- Modify, adapt, or create derivative works
+- Distribute, sublicense, or sell this software
+- Use this software for commercial purposes without explicit written permission
+- Reverse engineer, decompile, or attempt to derive the source code structure
+- Remove or alter any proprietary notices, labels, or marks
 
-📧 samhd8991@gmail.com (Himadri Das)
+PERMITTED USE
+This software may only be used as expressly permitted in a separate written 
+agreement with the copyright holders.
 
-Unauthorized use is strictly prohibited.
+CONFIDENTIALITY
+The contents of this repository are confidential and proprietary. Unauthorized 
+access, use, or disclosure is strictly prohibited and may result in legal action.
 
-## 📄 License
+DISCLAIMER
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE, OR NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE 
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
 
-This project is **not open-source** and is protected under a **custom "All Rights Reserved" license**.
+CONTACT
+For licensing inquiries, permissions, or commercial use requests, please contact:
+Himadri Das - samhd8991@gmail.com
 
-Any use, distribution, or modification is **strictly prohibited** without prior written permission.
-
-📧 Contact for licensing requests: samhd8991@gmail.com
+ENFORCEMENT
+Violation of this license is prohibited and may result in civil and/or criminal 
+legal action as permitted by applicable law.
